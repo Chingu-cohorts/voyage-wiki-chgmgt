@@ -70,9 +70,25 @@ Your team is free to structure itself in anyway it feels is best for success tho
 
 ### What Should a Team Do First?
 
+A careful review of the emails and Medium articles for the current Voyage is the best starting point. Next, look at the contents of this wiki, and then discuss [Section 03.Establishing the Team](https://github.com/Chingu-cohorts/voyage-wiki/wiki/Section-03.-Establishing-the-Team) with the project team.
+
+### What should I do if there's a change in the time I have available for this Voyage?
+
+Life happens! It's common for unforeseen events to occur that will restrict or eliminate the time you think you had available to devote to a Voyage after it starts. If this happens the first step is to notify your team of the change to your level of commitment. Next, make sure you have documented your work and that GitHub reflects the current state of your tasks. Nothing is more frustrating to a team than to be held up waiting on something you had promised them.
+
 ### What should I do if one or more members of my team aren't responding?
 
+If a team member stops communicating the PM should start by emailing the individual and if there is still no response note this as part of the Weekly Checking. Thursday's are set aside as "Repair" Days for members of the Chingu Management team to work with the PM to identify the best course of action. For example, add a new member, merge teams, etc.
+
+### What if it's the PM who isn't responding?
+
+Send a direct message (DM) to @chance as soon as possible.
+
 ### What should I do if there is disagreement within the team?
+
+Disagreement is something that's normal and should be resolved calmly and in a rational manner. There is no need to be disagreeable. All Chingu's are here to learn and improve, and there is nothing about our projects that justify a heightened level of emotion - no one will die if one of these apps isn't right!
+
+Start by treating a disagreement as you would any other problem. Make sure there's a clear and concise statement of the problem. Then as a team build a list of pros and cons. Weight these if necessary to highlight those that are more important than other. Then discuss and vote. If there's no clear consensus then the PM should choose a solution. Remember, if you choose the wrong solution you will have learned something valuable and you can refactor.
 
 ## Git & GitHub
 

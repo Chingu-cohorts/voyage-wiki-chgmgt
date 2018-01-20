@@ -40,6 +40,22 @@ suggestion, or correction to report.
 
 ### What Makes a Successful Team?
 
+Successful teams do three things in the following order of importance:
+
+1. Be nice to one another
+
+Team members aren't required to be in total agreement. In fact, there considerable evidence that differences of option accelerates innovation. However, while it's okay to disagree it is not okay to be disagreeable. Great teams are open to new ideas, change, and working together to identify the best path to success.
+
+2. Collaborate and communicate openly on a regular basis
+
+High functioning teams communicate and collaborate both formally and informally. Formal communications typically occur as part of your weekly Sprint/Scrum meeting(s). Informal communication are those between individual members and usually start with a question like "I'm having a problem..." or "What do you think about this?...".
+
+3. Work in an Agile fashion
+
+Working in this type of fashion means following an Agile methodology like [Scrum](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17). However, any Agile methodology is based on design only to known requirements, don't try to anticipate future requirements, develop using frequent iterations, and refactor as situations change.
+
+### What are the Team Roles?
+
 ### What Should a Team Do First?
 
 ### What should I do if one or more members of my team aren't responding?

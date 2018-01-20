@@ -14,7 +14,7 @@ The Voyage Wiki, which you are currently reading (congratulations!) is maintaine
 
 - [Chingu publication on Medium](https://medium.com/chingu)
 
-The Chingu publication on Medium contains information related to the current Voyage and is relevant to all participants. 
+The Chingu publication on Medium contains information related to the current Voyage and is relevant to all participants. You'll receive links to these articles in emails and in the `#chingu-news` channel in Slack.
 
 - email
 

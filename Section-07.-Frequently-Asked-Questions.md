@@ -1,4 +1,4 @@
-[Voyage](#voyage) | [Your Team](#your-team)
+[Voyage](#voyage) | [Your Team](#your-team) | [Git & GitHub](#git-github) | [Project README](#project-readme)
 
 ## Voyage
 
@@ -70,7 +70,7 @@ Working in this type of fashion means following an Agile methodology like [Scrum
 
 ### Why Can't I Push to My Teams repo?
 
-## README
+## Project README
 
 ### Why is the README Important?
 

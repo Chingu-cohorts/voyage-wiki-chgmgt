@@ -1,4 +1,10 @@
-[Voyage](#voyage) | [Your Team](#your-team) | [Git & GitHub](#git-github) | [Project README](#project-readme)
+[Voyage Wiki](#voyage-wiki) | [Voyage](#voyage) | [Your Team](#your-team) | [Git & GitHub](#git-github) | [Project README](#project-readme)
+
+## Voyage Wiki
+
+### I've found an error or omission! How do I request a change?
+
+TBD
 
 ## Voyage
 
@@ -57,6 +63,10 @@ High functioning teams communicate and collaborate both formally and informally.
 Working in this type of fashion means following an Agile methodology like [Scrum](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17). However, any Agile methodology is based on design only to known requirements, don't try to anticipate future requirements, develop using frequent iterations, and refactor as situations change.
 
 ### What are the Team Roles?
+
+At the start of a Voyage 3-4 Chingu's are assigned to a team. One team member will act as a Project Manager (PM). Therefore there are two distinct roles - PM and Team Member. The PM helps to organize and maintain the teams backlog of tasks (i.e. *_user stories_*) and report status to the Chingu organization, but everyone shares the responsibility to work on these tasks to complete the project.
+
+Your team is free to structure itself in anyway it feels is best for success though. There are many paths to success and its up to your team to find the one that's best for you.
 
 ### What Should a Team Do First?
 

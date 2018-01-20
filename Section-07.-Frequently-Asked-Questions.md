@@ -100,7 +100,9 @@ Equally important is the fact that we collect metrics from Voyage repos to help 
 
 In other words, **_we are ~~lazy~~ efficient_**.
 
-### Why Can't I Push to My Teams repo?
+### I Can't Access or Push to My Teams repo. What Should I Do?
+
+At the start of a Voyage your team's repo will be automatically set up and your team members will be authorized for access. If you are having access issues it's most likely due to an authorization issue. Your PM has the admin privileges necessary to correct this type of issue.
 
 ## Project README
 

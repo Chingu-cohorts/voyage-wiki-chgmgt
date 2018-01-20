@@ -2,7 +2,7 @@
 
 ### What's Expected of Me?
 
-See [Section 02.](https://github.com/Chingu-cohorts/voyage-wiki/wiki/Section-02.-Understanding-Your-Obligations)
+[Section 02.Understanding Your Obligations](https://github.com/Chingu-cohorts/voyage-wiki/wiki/Section-02.-Understanding-Your-Obligations)cover the expectation for Project Managers and Team Members in detail. However, keep in mind that **_consistency_**, **_participation_**, and **_commitment_** are key to your Voyage success. Maximizing your Voyage benefits will require that you are committed to consistent participation and a commitment  to being open and fair with your team mates. You are all together whether it be in success or failure.
 
 ### Where Can I Find More Information About this Voyage?
 

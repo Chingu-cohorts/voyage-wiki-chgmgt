@@ -2,6 +2,7 @@
 
 ### What's Expected of Me?
 
+See [Section 02.](https://github.com/Chingu-cohorts/voyage-wiki/wiki/Section-02.-Understanding-Your-Obligations)
 
 ### Where Can I Find More Information About this Voyage?
 

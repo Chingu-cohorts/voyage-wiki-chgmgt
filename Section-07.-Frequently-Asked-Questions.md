@@ -94,6 +94,12 @@ Start by treating a disagreement as you would any other problem. Make sure there
 
 ### Why GitHub?
 
+GitHub is one of several software as a service (SAAS) options for maintaining Open Source software such as that produced during a Voyage. GitLabs and Bitbucket are examples of other widely used source code repositories. The Chingu organization uses GitHub due to its broad acceptance within the Open Source community, high degree of maturity, and tight integration with `git`. 
+
+Equally important is the fact that we collect metrics from Voyage repos to help in the measurement of the progress of the Voyage, isolating the attributes common to successful teams, and identification of best practices. Dealing with a single source code repository makes this task easier than dealing with ten or even three different repositories. 
+
+In other words, **_we are ~~lazy~~ efficient_**.
+
 ### Why Can't I Push to My Teams repo?
 
 ## Project README

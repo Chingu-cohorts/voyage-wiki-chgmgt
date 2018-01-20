@@ -1,3 +1,5 @@
+[Voyage](#voyage) | [Your Team](#your-team)
+
 ## Voyage
 
 ### What's Expected of Me?

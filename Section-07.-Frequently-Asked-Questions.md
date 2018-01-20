@@ -6,6 +6,24 @@
 
 ### Where Can I Find More Information About this Voyage?
 
+There are four primary channels of information about a Voyage:
+
+- Voyage Wiki
+
+The Voyage Wiki, which you are currently reading (congratulations!) is maintained across Voyages and contains the collective experience and wisdom of the teams who have gone before you. 
+
+- [Chingu publication on Medium](https://medium.com/chingu)
+
+The Chingu publication on Medium contains information related to the current Voyage and is relevant to all participants. 
+
+- email
+
+Email contains information that is specific to a particular individual and is used sparingly. Emails are typically sent to announce your acceptance into an upcoming Voyage, to notify you when the Voyage starts, and to invite you to Slack channels and your team's Voyage Project repo on GitHub.
+
+- Slack
+
+Slack is where you collaborate with those on your team, as well as with other Chingu's. This is your normal communication channel where you get things done during a Voyage. A unique Slack "team" is created for each Voyage and to which all participants are invited. A private channel will be created in Slack for just your Voyage team, but public channels will also be created within it to allow communication and collaboration across all teams.
+
 ### How Do I Report Suggestions and Problems with the Template Repo?
 
 The Chingus are a collaborative organization of individuals who share a 

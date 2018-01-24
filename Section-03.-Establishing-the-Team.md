@@ -20,5 +20,7 @@ Successful teams communicate with one another not just via Slack, but also in re
 
 Identifying times for these meeting at the beginning of the project places a "stake-in-the-sand" that team members can plan their time around.
 
-### Set up a task board on Git Projects, Trello, Waffle.io, etc.
+### Set up a Task Board
+For a project to operate smoothly members of the team don't just need to establish operating guidelines and meeting times, they also need to understand what tasks are assigned to them and when they are needed. To do this means you'll need a task board to document your user stories and where each one currently lives within your workflow. 
 
+Many good tools exist for this including GitHub Projects, Trello, and Waffle.io to name a few. These tools all allow tasks, as a user story, to be created in a task card format, which can then be moved through the milestone lanes that make up your teams workflow. For example, common milestones are inbox, backlog, in progress, review, completed. 

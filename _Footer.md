@@ -1,5 +1,3 @@
 
 ***
-||
-|:-:|
-|<h3> CODE MORE - LEARN MORE - BUILD MORE </h3>|
+<h3 align="center"> CODE MORE - LEARN MORE - BUILD MORE </h3>

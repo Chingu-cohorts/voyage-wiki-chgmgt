@@ -1,6 +1,6 @@
 ## Introduction
 
-When you start a new project one of the first things you'll need to do is to define the tasks that must be completed to meet the projects goals. As a PM the very first step is to brainstorm with your team to define who your users are, the value the app will bring to each of them, and the high level components of the app responsible for delivering this value.
+When you start a new project one of the first things you'll need to do is to define the tasks that must be completed to meet the projects goals. One of the main responsibilities of your teams PM is to coordinate a "brainstorm" with the team to define who your users are, the value the app will bring to each of them, and the high level components of the app responsible for delivering this value.
 
 ## Workflow
 Once you've done this the next step is to start defining more discrete tasks and adding them to your project backlog. What is a "backlog"? Very simply its just a place where you maintain the tasks your project needs to complete, but which haven't yet been started. Agile projects organize themselves around a project board that's consists of the following vertical lanes:
@@ -71,6 +71,4 @@ Once you have defined your initial backlog of tasks you can start your first spr
 
 ## Wrapping It Up
 
-This has been a very light introduction to Agile project management and has been focused on practical steps to get your project to the point where you can start Sprint 1. Just as there are many paths to failure there are also many paths to success. As Chingu PM's its your responsibility to share what you've learned with your peers. Feel free to add your lesson's learned to this wiki.
-
-Good luck on your projects! 
+This has been a very light introduction to Agile project management and has been focused on practical steps to get your project to the point where you can start Sprint 1. Just as there are many paths to failure there are also many paths to success. 

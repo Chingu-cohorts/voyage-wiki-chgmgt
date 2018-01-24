@@ -1,3 +1,5 @@
+## Schedule
+
 This voyage is eight weeks long and is subdivided into eight sprints, each of which are one-week long. 
 
 | Sprint # | Start Date |  End Date  | Sprint Goal                              |
@@ -13,6 +15,7 @@ This voyage is eight weeks long and is subdivided into eight sprints, each of wh
 
 Each sprint consists of a set of milestones and events designed to provide feedback to your team, collect information to help the Chingu Organization improve your Voyage experience, and provide a transition between sprints.
 
+## Weekly Milestones
 1. *Check-in #X* - check-in form goes out to every member.
 2. *Chingu Weekly Update* - published
 3. *Overheard in Chingu* - published

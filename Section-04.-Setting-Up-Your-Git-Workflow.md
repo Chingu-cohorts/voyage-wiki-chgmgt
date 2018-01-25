@@ -28,10 +28,17 @@ branch always reflects the current production release.
 
 ![Git Workflow](https://github.com/Chingu-cohorts/voyage-wiki/blob/development/images/Git%20Workflow.png)
 
-1. Once the skeletal repo is built in GitHub team members will clone it to their individual computers.
-2.
-3.
-4.
-5.
-6.
-7.
+1. Once the skeletal repo is built in GitHub team members will clone it to their individual computers. Working branches are created for specific features and tasks (like bug fixes) you will be called upon to perform.
+2. All normal development activities occur on team members individual computers. Commits should be frequent and each commit should have a discrete, atomic purpose.
+3. Changes should be frequently push to the working branch on GitHub that matches the one on individual computers. This ensures that if a computer is lost, stolen, or malfunctions your work will still be available to the rest of your team.
+4. From time-to-time you may need to pull working branches to your individual computer. For example, when you are helping another team member with one of their tasks.
+5. Once a feature has been unit tested a Pull Request (PR) should be created to fold it into the development branch. It's always a good idea to require that PR's be reviewed by another member of the team. This helps to ensure that the quality of the app is maintained.
+6. When a group of features are ready to be promoted to Production they should be thoroughly tested together an then a Pull Request created to move them into the master branch which reflects the code base that's in Production or soon to be promoted to Production. 
+7. Once the PR to the master branch has been completed you are then ready to release its contents into your Production runtime environment.
+
+## References
+
+- [GitHub Guides](https://guides.github.com/)
+- [Kornil's Git Articles](https://medium.com/@francesco.agnoletto)
+- [GitHub Help](https://help.github.com/)
+- [tryGit](https://try.github.io/levels/1/challenges/1)

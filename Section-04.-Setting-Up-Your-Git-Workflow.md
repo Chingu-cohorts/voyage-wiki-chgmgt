@@ -28,9 +28,10 @@ branch always reflects the current production release.
 
 ![Git Workflow](https://github.com/Chingu-cohorts/voyage-wiki/blob/development/images/Git%20Workflow.png)
 
-1.
+1. Once the skeletal repo is built in GitHub team members will clone it to their individual computers.
 2.
 3.
 4.
 5.
 6.
+7.

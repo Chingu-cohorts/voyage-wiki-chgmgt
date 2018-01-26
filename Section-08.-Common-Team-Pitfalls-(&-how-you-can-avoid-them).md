@@ -10,4 +10,6 @@ IN-PROGRESS
 2. 
 
 ## Life happens - 
-
+1. 
+## "Someone else will do it" mindset - 
+1. 

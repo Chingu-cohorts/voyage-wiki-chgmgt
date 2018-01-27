@@ -46,6 +46,8 @@ members is an important task and one that's one responsibility of every
 Chingu. As a result please take the time to open an issue [here](https://github.com/jdmedlock/voyage-repo-template/issues) if you have an idea,
 suggestion, or correction to report.
 
+[Back to Top...](#voyage-wiki)
+
 ## Your Team
 
 ### What Makes a Successful Team?
@@ -92,6 +94,8 @@ Disagreement is something that's normal and should be resolved calmly and in a r
 
 Start by treating a disagreement as you would any other problem. Make sure there's a clear and concise statement of the problem. Then as a team build a list of pros and cons. Weight these if necessary to highlight those that are more important than other. Then discuss and vote. If there's no clear consensus then the PM should choose a solution. Remember, if you choose the wrong solution you will have learned something valuable and you can refactor.
 
+[Back to Top...](#voyage-wiki)
+
 ## Git & GitHub
 
 ### Why GitHub?
@@ -106,6 +110,8 @@ In other words, **_we are ~~lazy~~ efficient_**.
 
 At the start of a Voyage your team's repo will be automatically set up and your team members will be authorized for access. If you are having access issues it's most likely due to an authorization issue. Your PM has the admin privileges necessary to correct this type of issue.
 
+[Back to Top...](#voyage-wiki)
+
 ## Project README
 
 ### Why is the README Important?
@@ -116,3 +122,4 @@ At the start of a Voyage your team's repo will be automatically set up and your 
 
 ### Where Can I Find More Information on Formatting a GitHub README?
 
+[Back to Top...](#voyage-wiki)

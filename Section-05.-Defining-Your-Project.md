@@ -72,3 +72,7 @@ Once you have defined your initial backlog of tasks you can start your first spr
 ## Wrapping It Up
 
 This has been a very light introduction to Agile project management and has been focused on practical steps to get your project to the point where you can start Sprint 1. Just as there are many paths to failure there are also many paths to success. 
+
+## For More Information
+
+[A Short Introduction to the Scrum Methodology](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17)

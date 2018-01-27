@@ -51,4 +51,6 @@ Some examples include:
 
 ![](https://github.com/Chingu-cohorts/voyage-wiki/blob/development/images/Example%20Task%20Board.png)
 
+For more information about task boards see [A Short Introduction to the Scrum Methodology](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17).
+
 # 💯 💯 💯 💯 TO ADD: Reminder who is responsible for this? Add link for trello & waffle example  💯 💯 💯 💯 

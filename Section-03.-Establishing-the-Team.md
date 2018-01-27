@@ -36,7 +36,7 @@ Identifying times for these meeting at the beginning of the project places a "st
 
 # 💯 💯 💯 💯 TO ADD: How do they do this? Meekan? talking back and forth? 💯 💯 💯 💯 
 
-### Set up a Task Board
+### Selecting a Task Board
 For a project to operate smoothly members of the team don't just need to establish operating guidelines and meeting times, they also need to understand what tasks are assigned to them and when they are needed. To do this means you'll need a task board to document your user stories and where each one currently lives within your workflow. 
 
 Many good tools exist for this including GitHub Projects, Trello, and Waffle.io to name a few. These tools all allow tasks, as a user story, to be created in a task card format, which can then be moved through the milestone lanes that make up your teams workflow. For example, common milestones are inbox, backlog, in progress, review, completed.

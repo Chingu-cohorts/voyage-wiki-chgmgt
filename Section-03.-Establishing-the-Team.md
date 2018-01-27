@@ -39,10 +39,10 @@ For a project to operate smoothly members of the team don't just need to establi
 
 Many good tools exist for this including GitHub Projects, Trello, and Waffle.io to name a few. These tools all allow tasks, as a user story, to be created in a task card format, which can then be moved through the milestone lanes that make up your teams workflow. For example, common milestones are inbox, backlog, in progress, review, completed. 
 
-![](https://github.com/Chingu-cohorts/voyage-wiki/blob/development/images/Example%20Task%20Board.png)
-
 Some examples include:
 
 - [Toucans example on Github Projects](https://github.com/chingu-voyage3/toucans-06/projects/1)
 - [Example on Trello](#)
 - [Example on Waffle](#)
+
+![](https://github.com/Chingu-cohorts/voyage-wiki/blob/development/images/Example%20Task%20Board.png)

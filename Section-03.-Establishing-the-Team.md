@@ -48,3 +48,5 @@ Some examples include:
 - [Example on Waffle](#)
 
 ![](https://github.com/Chingu-cohorts/voyage-wiki/blob/development/images/Example%20Task%20Board.png)
+
+# 💯 💯 💯 💯 TO ADD: Reminder who is responsible for this?  💯 💯 💯 💯 

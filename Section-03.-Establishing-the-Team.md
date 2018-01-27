@@ -1,7 +1,7 @@
 ## Starting Your Project
 The hardest part of any project is getting started. Over several Chingu Voyages some common activities of successful teams have been identified that should help you to kick off your project. 
 
-### Bring the energy from Day 1
+### Building & Maintaining Momentum
 Successful teams build momentum in the first week and unlock the opportunity to continue. Teams that don't gain momentum in the first week almost always fail. We spend a lot of time organizing teams to make them as robust as possible, but you and your team-mates are responsible for coming together to build the momentum necessary to complete a project. 
 
 Here are concrete steps you can take to ensure your team is successful: 

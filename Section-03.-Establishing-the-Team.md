@@ -34,6 +34,8 @@ Successful teams communicate with one another not just via Slack, but also in re
 
 Identifying times for these meeting at the beginning of the project places a "stake-in-the-sand" that team members can plan their time around.
 
+# 💯 💯 💯 💯 TO ADD: How do they do this? Meekan? talking back and forth? 💯 💯 💯 💯 
+
 ### Set up a Task Board
 For a project to operate smoothly members of the team don't just need to establish operating guidelines and meeting times, they also need to understand what tasks are assigned to them and when they are needed. To do this means you'll need a task board to document your user stories and where each one currently lives within your workflow. 
 

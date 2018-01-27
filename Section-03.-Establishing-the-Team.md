@@ -39,7 +39,9 @@ Identifying times for these meeting at the beginning of the project places a "st
 ### Set up a Task Board
 For a project to operate smoothly members of the team don't just need to establish operating guidelines and meeting times, they also need to understand what tasks are assigned to them and when they are needed. To do this means you'll need a task board to document your user stories and where each one currently lives within your workflow. 
 
-Many good tools exist for this including GitHub Projects, Trello, and Waffle.io to name a few. These tools all allow tasks, as a user story, to be created in a task card format, which can then be moved through the milestone lanes that make up your teams workflow. For example, common milestones are inbox, backlog, in progress, review, completed. 
+Many good tools exist for this including GitHub Projects, Trello, and Waffle.io to name a few. These tools all allow tasks, as a user story, to be created in a task card format, which can then be moved through the milestone lanes that make up your teams workflow. For example, common milestones are inbox, backlog, in progress, review, completed.
+
+Updates to the backlog should be done during your weekly meetings. All team members share ownership of the items in the backlog just as no single team member owns a specific section of the codebase. Everyone should work to keep the backlog accurate and up to date. However, performing the update during team meetings helps to ensure that everyone understands the changes and that change isn't introduced in a vacuum.
 
 Some examples include:
 

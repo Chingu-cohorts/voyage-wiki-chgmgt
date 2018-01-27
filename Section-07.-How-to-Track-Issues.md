@@ -7,7 +7,9 @@ The IdeaNebulae Project team uses GitHub not only for source code management, bu
 
 The problem with the first two examples are they don't describe what the error actually is or where it's occurring within the application. The second example is marginally better since it defines how to recreated the problem, but that information is useless since there's still no indication of which screen the user was on when Option-B was attempted.
 
-The last issue report is the best of the three since it defines which screen the user experienced the issue on, what she was trying to do, and what the expected outcome was. Unfortunately the first sentence is totally useless information that's inappropriate for an issue report and sends a signal to whoever works on this issue that the user is going to be difficult to work with. The lesson here is that issue reports should be factual and not emotional. 
+The last issue report is the best of the three since it defines which screen the user experienced the issue on, what she was trying to do, and what the expected outcome was. Unfortunately the first sentence is totally useless information that's inappropriate for an issue report and sends a signal to whoever works on this issue that the user is going to be difficult to work with. The lesson here is that issue reports should be factual and not emotional.
+
+Keep in mind that this what is presented below is a way to customize the out-of-the-box GitHub Issue reporting system. However, you could just as easily use the GitHub default until you see a need for customization. This is a team decision based on your projects unique needs. 
 
 # Issue Reporting Template
 The result of having the complete, accurate, and appropriate information is that the Developer will be able to resolve the issue faster and more correctly. The key information that should be entered into the issue are:
@@ -29,7 +31,7 @@ To help ensure that this information is properly captured we ask our users and d
 **_Resolution:_** 
 ```
 # The Importance of Labels
-Having the complete and accurate information that describes an issue is important, but so is classification of the issue. Classifying or grouping issues into categories helps the Development team to triage issues so they are worked on in the proper order. 
+Having the complete and accurate information that describes an issue is important, but so is classification of the issue. Classifying or grouping issues into categories helps the Development team to triage issues so they are worked on in the proper order. However, if you choose to use the basic set of default labels already defined by GitHub on your repo that's okay. You can always get more complicated, but it tougher to go in the other direction. 
 
 This project uses GitHub Issue Labels for classification. These labels and their definitions are shown below.
 ```

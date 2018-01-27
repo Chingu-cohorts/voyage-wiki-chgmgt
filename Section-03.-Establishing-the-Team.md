@@ -8,7 +8,7 @@ Here are concrete steps you can take to ensure your team is successful:
 1. Join the team-chat with energy & signal to your team-mates that you're excited to work on the project! If you're unsure what to say, copy/paste this: Hey all! I'm SUPER excited to learn and build with you!! 😄 🚀"
 
 If members are enthusiastic, that will spread and the team will have momentum. If members come in apathetic and silent, the team won't gain momentum and will fail. 
-2. Learn these principles and put them in action. Not only will it increase the likelihood of your team succeeding, but adding soft skills to your skills stack will make you a more successful person in all aspects of your life. 
+2.  Learn these principles and put them in action. Not only will it increase the likelihood of your team succeeding, but adding soft skills to your skills stack will make you a more successful person in all aspects of your life. 
 3. Use @username when talking to team-mates. This is specific and increases the likelihood that the person will reply back. When you talk to no one in particular, often no one will reply (because they don't know if they should reply or if someone else will reply).  
 Ex. "Hi @jdmedlock, @vannya, @pankaja, can you let me know when you're free this Saturday for a meeting?" 
 4. Take personal ownership of your team's success. I've seen teams where no one talks and when I ask each member individually why they aren't talking they say "I was waiting for someone else to talk." Don't be that person. 

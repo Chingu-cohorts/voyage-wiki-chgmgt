@@ -41,7 +41,7 @@ For a project to operate smoothly members of the team don't just need to establi
 
 Many good tools exist for this including GitHub Projects, Trello, and Waffle.io to name a few. These tools all allow tasks, as a user story, to be created in a task card format, which can then be moved through the milestone lanes that make up your teams workflow. For example, common milestones are inbox, backlog, in progress, review, completed.
 
-Updates to the backlog of work items should be performed during your weekly meetings. All team members share ownership of the items in the backlog. Just as no single team member owns a specific section of the codebase no single team member owns the backlock. Everyone should work to keep the backlog accurate and up to date. However, performing the update during team meetings helps to ensure that everyone understands the changes and that change isn't introduced in a vacuum.
+Updates to the backlog of work items should be performed during your weekly meetings. All team members share ownership of the items in the backlog. Just as no single team member owns a specific section of the codebase no single team member owns the backlog. Everyone should work to keep the backlog accurate and up to date. However, performing the update during team meetings helps to ensure that everyone understands the changes and that change isn't introduced in a vacuum.
 
 Some examples include:
 

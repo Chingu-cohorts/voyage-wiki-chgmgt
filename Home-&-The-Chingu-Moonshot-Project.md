@@ -14,5 +14,11 @@ This wiki is intended to provide Voyage teams with a reference defining what to 
 
 To make a suggestion, request, or to report a correction simply open and [issue](https://github.com/Chingu-cohorts/voyage-wiki/issues) in this repo.
 
+# The Chingu Moonshot 
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/email.png?alt=media&token=fa6c518e-0609-450c-9aca-ae97ec187f2e "Optional title")
+
+💯 💯 call-to-action goes here 💯 💯 
+
 # Good luck, Clear Skies, and Smooth Sailing!
 

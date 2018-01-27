@@ -19,10 +19,10 @@ Your teams charter will define the values all members of your team share with re
 
 Some examples include:
 
-- https://moorepants.github.io/eme185/pages/team-charter-template.html
-- https://github.com/krismy93/SoftwareEngineering/wiki/Team-Charter
-- https://github.com/gregorbj/VisionEval/wiki/Review-Team-Charter
-- https://github.com/chingu-voyage3/toucans-06/wiki/Code-Standards,-Process,-Visions,-and-Goals
+- [Team-Charter Template](https://moorepants.github.io/eme185/pages/team-charter-template.html)
+- [Team-Charter Example](https://github.com/krismy93/SoftwareEngineering/wiki/Team-Charter)
+- [Review-Team-Charter](https://github.com/gregorbj/VisionEval/wiki/Review-Team-Charter)
+- [Team-Charter of a previous Chingu Voyage team](https://github.com/chingu-voyage3/toucans-06/wiki/Code-Standards,-Process,-Visions,-and-Goals)
 
 ### Identify two times a week when all team members are available
 Successful teams communicate with one another not just via Slack, but also in realtime in Team Standup (i.e. Scrum) meetings. These are short meetings (<30 minutes) where each team member answers these questions:

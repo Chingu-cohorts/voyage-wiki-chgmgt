@@ -3,9 +3,10 @@
 Chingu Voyages require the following from all participants, regardless of their role. 
 
 1. Commit to finishing the Voyage. If you start a Voyage you should make every effort to finish it. 
-2. Be open and tolerant of other ideas. Use the Voyage to expand your knowledge rather than to just build on what you already know.
-3. Be open with your ideas and thoughts. Innovation doesn't take place in a vaccum.
-4. Complete a Weekly Check-in so Chingu can assess the health of teams and provide ongoing support. 
+2. Be active every week. Every week you should be doing some combination of the following: communicate with your team-mates, learning & working on tasks, some github activity. 
+3. Be open and tolerant of other ideas. Use the Voyage to expand your knowledge rather than to just build on what you already know.
+4. Be open with your ideas and thoughts. Innovation doesn't take place in a vaccum.
+5. Complete a Weekly Check-in so Chingu can assess the health of teams and provide ongoing support. 
 
 ## Team Obligations
 

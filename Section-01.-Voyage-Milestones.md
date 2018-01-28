@@ -47,7 +47,7 @@ Right now it is largely done manually, but Chingu's Lead Data Scientist @trion i
 
 ### Community Support
 
-Each Chingu Voyage has a few hundred developers from all levels who come from diverse backgrounds. Viewed as a collective brain, each Voyage is both a marvel of diversity but also an excellent resource. I encourage all teams to consider the collective brain of the Voyage as a team-mate. 
+Each Chingu Voyage has a few hundred developers from all levels who come from diverse backgrounds. Viewed as a collective brain, each Voyage is both a marvel of diversity and an excellent resource for you and your team. I encourage all teams to consider the collective brain of the Voyage as a team-mate. 
 
 You can access this collective brain in the following ways: 
 

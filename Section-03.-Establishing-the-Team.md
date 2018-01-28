@@ -44,11 +44,9 @@ Many good tools exist for this including GitHub Projects, Trello, and Waffle.io 
 
 Updates to the backlog of work items should be performed during your weekly meetings. All team members share ownership of the items in the backlog. Just as no single team member owns a specific section of the codebase no single team member owns the backlog. Everyone should work to keep the backlog accurate and up to date. However, performing the update during team meetings helps to ensure that everyone understands the changes and that change isn't introduced in a vacuum.
 
-Some examples include:
+Here is an example:
 
 - [Toucans example on Github Projects](https://github.com/chingu-voyage3/toucans-06/projects/1)
-- [Example on Trello](#)
-- [Example on Waffle](#)
 
 ![](https://github.com/Chingu-cohorts/voyage-wiki/blob/development/images/Example%20Task%20Board.png)
 

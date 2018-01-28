@@ -1,4 +1,4 @@
-[Voyage Wiki](#voyage-wiki) | [Voyage](#voyage) | [Your Team](#your-team) | [Git & GitHub](#git-github) | [Project README](#project-readme)
+[Voyage Wiki](#voyage-wiki) | [Voyage](#voyage) | [Your Team](#your-team) | [Git & GitHub](#git-github) | [Project License](#project-license)
 
 ## Voyage Wiki
 
@@ -114,14 +114,10 @@ At the start of a Voyage your team's repo will be automatically set up and your 
 
 [Back to Top...](#voyage-wiki)
 
-## Project README
+## Project License
 
-### Why is the README Important?
+### Why are licenses important?
 
-### Where Can I Find Examples of Well Written README's?
-
-### Why are licenses important and how do I choose one?
-
-### Where Can I Find More Information on Formatting a GitHub README?
+### How do I choose a license?
 
 [Back to Top...](#voyage-wiki)

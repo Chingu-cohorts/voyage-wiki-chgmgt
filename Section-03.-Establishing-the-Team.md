@@ -26,6 +26,9 @@ Some examples include:
 
 
 ### Identify two times a week when all team members are available
+
+Note: We will have a [meeting coordinator bot](https://meekan.com/) in Voyage to help teams to schedule meetings. 
+
 Successful teams communicate with one another not just via Slack, but also in realtime in Team Standup (i.e. Scrum) meetings. These are short meetings (<30 minutes) where each team member answers these questions:
 
 1. What have I done since the last Scrum meeting?
@@ -33,8 +36,6 @@ Successful teams communicate with one another not just via Slack, but also in re
 3. What issues or questions have I encountered that I need help with?
 
 Identifying times for these meeting at the beginning of the project places a "stake-in-the-sand" that team members can plan their time around.
-
-# 💯 💯 💯 💯 TO ADD: How do they do this? Meekan? talking back and forth? 💯 💯 💯 💯 
 
 ### Selecting a Task Board
 For a project to operate smoothly members of the team don't just need to establish operating guidelines and meeting times, they also need to understand what tasks are assigned to them and when they are needed. To do this means you'll need a task board to document your user stories and where each one currently lives within your workflow. 
@@ -52,5 +53,3 @@ Some examples include:
 ![](https://github.com/Chingu-cohorts/voyage-wiki/blob/development/images/Example%20Task%20Board.png)
 
 For more information about task boards see [A Short Introduction to the Scrum Methodology](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17).
-
-# 💯 💯 💯 💯 TO ADD: Reminder who is responsible for this? Add link for trello & waffle example  💯 💯 💯 💯 

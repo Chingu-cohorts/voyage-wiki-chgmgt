@@ -4,7 +4,9 @@
 
 ### I've found an error or omission! How do I request a change?
 
-TBD
+We love finding and fixing errors and omissions! We also love hearing your ideas for how to improve this wiki to help make it more relevant not just for you, but for future Chingu Voyagers. 
+
+To report an issue or to request a new topic open an issue in the [Voyage Wiki Issue Log](https://github.com/Chingu-cohorts/voyage-wiki/issues). Be sure to describe what's needs correction or your topic suggestions in as much detail as possible. 
 
 [Back to Top...](#voyage-wiki)
 

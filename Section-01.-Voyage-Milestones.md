@@ -17,10 +17,35 @@ This voyage is eight weeks long and is subdivided into eight sprints, each of wh
 
 Each sprint consists of a set of milestones and events designed to provide feedback to your team, collect information to help the Chingu Organization improve your Voyage experience, and provide a transition between sprints.
 
-## Weekly Milestones
-1. *Check-in #X* - check-in form goes out to every member.
-2. *Chingu Weekly Update* - published
-3. *Overheard in Chingu* - published
-4. *Power-up heartBeat* - combining quantitate data (team github activity, milestone data, slack message data) + qualitative data (questions on the check-in) to create an action plan for Repair Day. Thursdays will be devoted to team repair every week. 
-5. *REPAIR DAY* - Use the action plan prepared and execute necessary actions to make sure all teams are troubleshooted and on the right path. 
-6. *Weekly Reflection + CodeMigration Article* - Weekly reflection about how the Voyage is going, and tips for teams. The CodeMigration article will be a post from @pankaja's team project aka Campfire Stories reborn. We'll do a brief interview of 2-3 Chingus each week and post it as an article showcasing the stories and people learning across the world
+## Ensuring Accountability & Team Support 
+
+A big challenge in remote software teams is navigating challenges and regularly re-assessing the state of the team to ensure the opportunities are unlocked. 
+
+We will help teams support themselves in the following way: 
+
+### Tools
+
+Chingu is a platform to launch opportunities for developers, but another part of Chingu is researching and developing ways to better facilitate those opportunities. We call this global collaboration lab Chingu-X, and they built 
+
+1. The Wizard Milestones - 
+
+2. The Wizard Standups - 
+
+### Support from Chingu Volunteers
+
+1. Weekly Check-in - This weekly check-in with Chingu will be sent out at the start of every week and will be our way of assessing team health and to help you be accountable to your learning and team. 
+
+2. Weekly HeartBeat powerup - HeartBeat is our tool to determine what teams need support. We use the Weekly Check-ins as well as slack & github metrics to give every team a status of: 
+
+* GREEN (progressing well) 
+* YELLOW (may need some support)
+* RED (team is in trouble, may need significant support or to be closed down)
+
+Right now it is largely done manually, but Chingu's Lead Data Scientist @trion is currently working a machine learning-assisted tool to help automate this process. It's a time consuming process and part of the reason the Weekly Check-ins are so important. I (Chance) will spend Monday-Wednesday powering up the HeartBeat before... 
+
+3. Team Support Day! - This day will happen every Thursday/Friday (and Saturday if need-be). We will use the insights from HeartBeat to determine what teams need assistance each week. Anything from troubles gaining momentum to looking for a replacement for a member who got a job, this day is for making sure teams are on the right path. 
+
+In addition to the above, teams will have access to the following support:
+
+* Slack channels - #ask-for-help-here, the Project Managers channel
+* Weekly Check-ins - there will be an opportunity to let us know of any improvements or ask for help on this check-in. 

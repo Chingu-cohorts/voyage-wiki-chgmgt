@@ -77,4 +77,4 @@ Issues and tasks added by the team typically start in state:backlog and move to 
 
 # Examples
 
-The best source of examples for how issues are to be defined an labeled is the [IdeaNebulae Issue Log](https://github.com/Chingu-cohorts/voyage2-bears-27/issues).
+The best source of examples for how issues are to be defined an labeled is the [IdeaNebulae Issue Log](https://github.com/chingu-voyage3/ideanebulae/issues).

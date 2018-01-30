@@ -39,6 +39,8 @@ branch always reflects the current production release.
 ## References
 
 - [GitHub Guides](https://guides.github.com/)
-- [Kornil's Git Articles](https://medium.com/@francesco.agnoletto)
+- [Kornil's: How to not f- up your local files with Git **part 1** ](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c)
+- [Kornil's: How to not f- up your local files with Git **part 2** ](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a)
+- [Kornil's: How to not f- up your local files with Git **part 3** ](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
 - [GitHub Help](https://help.github.com/)
 - [tryGit](https://try.github.io/levels/1/challenges/1)

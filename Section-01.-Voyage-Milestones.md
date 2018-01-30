@@ -2,7 +2,7 @@
 
 This voyage is eight weeks long and is subdivided into eight sprints, each of which are one-week long. 
 
-| Sprint # | Start Date |  End Date  | Sprint Goal                              |
+| Sprint # | Start Date* |  End Date* | Sprint Goal                              |
 |:--------:|:----------:|:----------:|:-----------------------------------------|
 |    -1    | 02/02/2018 | 02/07/2018 | Voyage preparation including PM notification and training |
 |    0     | 02/08/2018 | 02/14/2018 | Voyage invitations go out! Onboarding: Get in slack, write intro, make sure everyone is prepared for the team launch              |
@@ -15,7 +15,7 @@ This voyage is eight weeks long and is subdivided into eight sprints, each of wh
 |    7     | 03/26/2018 | 04/04/2018 | *_Development_* - Work on your project       |
 |    8     | 04/05/2018 | 04/11/2018 | *_Closure_* - Showcase your finished project & celebrate your success as a team |
 
-(Dates are formatted as `mm/dd/yyyy`)
+*Dates are formatted as `mm/dd/yyyy`
 
 Each sprint consists of a set of milestones and events designed to provide feedback to your team, collect information to help the Chingu Organization improve your Voyage experience, and provide a transition between sprints.
 

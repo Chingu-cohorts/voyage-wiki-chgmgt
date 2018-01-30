@@ -78,6 +78,16 @@ Your team is free to structure itself in anyway it feels is best for success tho
 
 A careful review of the emails and Medium articles for the current Voyage is the best starting point. Next, look at the contents of this wiki, and then discuss [Section 03.Establishing the Team](https://github.com/Chingu-cohorts/voyage-wiki/wiki/Section-03.-Establishing-the-Team) with the project team.
 
+### Are Soft Skills Important?
+
+The importance of soft skills in the global economy is unequivocal, but there is a lot of debate and research presently on the best way to teach people these increasingly important skills.  
+
+We do not purport to have the final answer to this question, but it seems that deliberate practice & experience is key. If you have been in a remote team project before, you likely appreciate the importance of team dynamics. A team of enthusiastic learners with soft skills can unlock opportunities unimaginable before. A team of all-star coders with no soft skills usually fail. 
+
+At this point, I have overseen hundreds of teams with thousands of learners from over 120 different countries, and it is clear that soft skills are wildly advantageous. While the demand for specific hard skills will come and go (ex. yesterday jQuery, today React, tomorrow something different), the ability to learn what is needed and work effectively in teams are skills that will benefit you for your entire life and career. 
+
+Here are 30 soft skill principles that can level-up your skills. 
+
 ### What should I do if there's a change in the time I have available for this Voyage?
 
 Life happens! It's common for unforeseen events to occur that will restrict or eliminate the time you think you had available to devote to a Voyage after it starts. If this happens the first step is to notify your team of the change to your level of commitment. Next, make sure you have documented your work and that GitHub reflects the current state of your tasks. Nothing is more frustrating to a team than to be held up waiting on something you had promised them.

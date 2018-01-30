@@ -5,15 +5,15 @@ This voyage is eight weeks long and is subdivided into eight sprints, each of wh
 | Sprint # | Start Date* |  End Date* | Sprint Goal                              |
 |:--------:|:----------:|:----------:|:-----------------------------------------|
 |    -1    | 02/02/2018 | 02/07/2018 | Voyage preparation including PM notification and training |
-|    0     | 02/08/2018 | 02/14/2018 | Voyage invitations go out! Onboarding: Get in slack, write intro, make sure everyone is prepared for the team launch              |
-|    1     | 02/15/2018 | 02/21/2018 | *_Preparation & Team set-up_* - Get to know your team, select a PM, create your Team Charter, and start discussing project ideas |
-|    2     | 02/22/2018 | 02/28/2018 | *_Design_* - Agree on a project, define its scope, create the backlog, assign tasks, and start your first development sprint |
-|    3     | 02/29/2018 | 03/04/2018 | *_Development_* - Work on your project       |
-|    4     | 03/05/2018 | 03/11/2018 | *_Development_* - Work on your project       |
-|    5     | 03/12/2018 | 03/18/2018 | *_Development_* - Work on your project       |
-|    6     | 03/19/2018 | 03/25/2018 | *_Development_* - Work on your project       |
-|    7     | 03/26/2018 | 04/04/2018 | *_Development_* - Work on your project       |
-|    8     | 04/05/2018 | 04/11/2018 | *_Closure_* - Showcase your finished project & celebrate your success as a team |
+|    0     | 02/15/2018 | 02/18/2018 | Voyage invitations go out! Onboarding: Get in slack, write intro, make sure everyone is prepared for the team launch              |
+|    1     | 02/19/2018 | 02/25/2018 | *_Preparation & Team set-up_* - Get to know your team, select a PM, create your Team Charter, and start discussing project ideas |
+|    2     | 02/26/2018 | 03/04/2018 | *_Design_* - Agree on a project, define its scope, create the backlog, assign tasks, and start your first development sprint |
+|    3     | 03/05/2018 | 03/11/2018 | *_Development_* - Work on your project       |
+|    4     | 03/12/2018 | 03/18/2018 | *_Development_* - Work on your project       |
+|    5     | 03/19/2018 | 03/25/2018 | *_Development_* - Work on your project       |
+|    6     | 03/26/2018 | 04/01/2018 | *_Development_* - Work on your project       |
+|    7     | 04/02/2018 | 04/08/2018 | *_Development_* - Work on your project       |
+|    8     | 04/09/2018 | 04/15/2018 | *_Closure_* - Showcase your finished project & celebrate your success as a team |
 
 *Dates are formatted as `mm/dd/yyyy`
 

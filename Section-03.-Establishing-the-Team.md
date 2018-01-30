@@ -50,4 +50,9 @@ Here is an example:
 
 ![](https://github.com/Chingu-cohorts/voyage-wiki/blob/development/images/Example%20Task%20Board.png)
 
-For more information about task boards see [A Short Introduction to the Scrum Methodology](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17).
+## Additional Resources
+- [A Short Introduction to the Scrum Methodology](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17)
+- [GitHub Projects](https://help.github.com/articles/about-project-boards/)
+- [Trello](www.trello.com)
+- [Waffle.io](www.waffle.io)
+- [ZenHub](www.zenhub.com)

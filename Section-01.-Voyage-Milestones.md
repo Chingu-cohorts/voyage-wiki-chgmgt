@@ -1,11 +1,11 @@
 ## Schedule
 
-This voyage is eight weeks long and is subdivided into eight sprints, each of which are one-week long. 
+This voyage is eight weeks long and is subdivided into eight sprints, each of which are one-week long (except during onboarding where it is slightly different). 
 
 | Sprint # | Start Date* |  End Date* | Sprint Goal                              |
 |:--------:|:----------:|:----------:|:-----------------------------------------|
 |    -1    | 02/02/2018 | 02/14/2018 | Voyage preparation including PM notification and training. Voyage invitations go out on Feb. 8!  |
-|    0     | 02/15/2018 | 02/18/2018 | Onboarding: Get in slack, write intro, make sure everyone is prepared for the team launch              |
+|    0     | 02/08/2018 | 02/15/2018 | Onboarding: Get in slack, write intro, make sure everyone is prepared for the team launch              |
 |    1     | 02/19/2018 | 02/25/2018 | *_Preparation & Team set-up_* - Get to know your team, select a PM, create your Team Charter, and start discussing project ideas |
 |    2     | 02/26/2018 | 03/04/2018 | *_Design_* - Agree on a project, define its scope, create the backlog, assign tasks, and start your first development sprint |
 |    3     | 03/05/2018 | 03/11/2018 | *_Development_* - Work on your project       |

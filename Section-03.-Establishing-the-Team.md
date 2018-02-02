@@ -55,6 +55,6 @@ Here are a few examples:
 ## Additional Resources
 - [A Short Introduction to the Scrum Methodology](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17)
 - [GitHub Projects](https://help.github.com/articles/about-project-boards/)
-- [Trello](www.trello.com)
-- [Waffle.io](www.waffle.io)
-- [ZenHub](www.zenhub.com)
+- [Trello](https://www.trello.com)
+- [Waffle.io](https://www.waffle.io)
+- [ZenHub](https://www.zenhub.com)

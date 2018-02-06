@@ -86,7 +86,7 @@ We do not purport to have the final answer to this question, but it seems that d
 
 At this point, I have overseen hundreds of teams with thousands of learners from over 120 different countries, and it is clear that soft skills are wildly advantageous. While the demand for specific hard skills will come and go (ex. yesterday jQuery, today React, tomorrow something different), the ability to learn what is needed and work effectively in teams are skills that will benefit you for your entire life and career. 
 
-Here are 30 soft skill principles that can level-up your skills. 
+Here are [30 soft skill principles](https://medium.com/chingu/30-ways-to-level-up-your-skills-stack-carnegies-wisdom-remix-4c532aabd0c0) that can level-up your skills. 
 
 ### What should I do if there's a change in the time I have available for this Voyage?
 

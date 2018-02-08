@@ -12,7 +12,6 @@ Here are concrete steps you can take to ensure your team is successful:
 3. Use @username when talking to team-mates. This is specific and increases the likelihood that the person will reply back. When you talk to no one in particular, often no one will reply (because they don't know if they should reply or if someone else will reply).  
 Ex. "Hi @jdmedlock, @vannya, @pankaja, can you let me know when you're free this Saturday for a meeting?" 
 4. Take personal ownership of your team's success. I've seen teams where no one talks and when I ask each member individually why they aren't talking they say "I was waiting for someone else to talk." Don't be that person. 
-5. 
 
 ### Create your team charter
 Your teams charter will define the values all members of your team share with regard to how they interact with one another, how work is identified and assigned, and the process your team will follow to get work done. These don't have to be lengthy, but they should define how you will conduct your work to avoid confusion later in the project. 

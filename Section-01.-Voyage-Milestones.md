@@ -1,3 +1,8 @@
+## Roadmap Overview
+
+At Chingu, we build to learn. Below is the project roadmap for teams:
+![Voyage Roadmap Diagram](https://github.com/Chingu-cohorts/voyage-wiki/blob/development/images/Voyage%20Roadmap%20Diagram.png)
+
 ## Schedule
 
 This voyage is eight weeks long and is subdivided into eight sprints, each of which are one-week long (except during onboarding where it is slightly different). 

@@ -57,7 +57,7 @@ _TBD_<br>
 [voyage-roadmap]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Roadmap
 [voyage-support]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Support
 
-[projsetup-obligations]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/ProjSetup-About
+[projsetup-obligations]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/ProjSetup-Your-Obligations
 [projsetup-establishteam]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/ProjSetup-Establishing-Your-Team
 [projsetup-gitworkflow]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/ProjSetup-Git-Workflow
 [projsetup-defineproj]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/ProjSetup-Project-Definition

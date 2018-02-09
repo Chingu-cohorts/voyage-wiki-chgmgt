@@ -3,7 +3,7 @@
   <summary>About this Wiki</summary>
 
 [Home][home]<br>
-[How to Contribute - _TBD_][home-contribute]
+[How to Contribute][home-contribute]
 </details>
 <hr/>
 

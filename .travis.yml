@@ -1,0 +1,19 @@
+script:
+- git config user.name "jdmedlock"
+- git config user.email "jdmedlock@gmail.com"
+- git remote remove origin
+- git remote add origin https://$GITHUB_API_KEY@github.com/Chingu-cohorts/voyage-wiki-chgmgt
+  > /dev/null 2>&1
+- git remote add upstream https://$GITHUB_API_KEY@github.com/Chingu-cohorts/voyage-wiki.wiki.git
+  > /dev/null 2>&1
+- git fetch origin
+- git fetch upstream
+- git merge upstream/master --no-edit
+- git push origin HEAD:master
+- git push upstream HEAD:master
+branches:
+  only:
+  - master
+env:
+  matrix:
+    secure: Lo2SC9Ef3SOIrg7wWbHaqI8uOhMikEjCCiS12rE5npJH507PDyGX1nu+a4aa4t8X7AFG/rGil3w8fwOHj4Dmt8Tad7C4vXBvkqH1Bvm9AbRGjbcJSx/EuCkziFygO8nJy14EJ/d2G5bGqV3VFdmJ/Iwhtla7V7mbMrxflB+T76tniqlqoFZ51xD9aeykaAFtE5DI9uloax90tKV1e7mlRJF27+2o8n88RkWnKiUyHb5czTX3Om6N5d/mH7x07zH1uwO0WojlenGobctW1RAf79KTcWhnxVwOG2NaTtZ4jF8nch6EAbk+Z6nTsXUOJ7ehAkaKClzEvBrPFuVYQNPyKM9J91THF9JYMEOE8BoM0lUP/4CwZNspagQ8ewDaTw9+EF3pbVSx4DvcFg90tj7YSpyUjd2GPp1gqzeGPTKgmtdv+LEIiE6xKzqihGl2euc8b9ThvNxriCekt3+VGorb/4mEfG7IikHoHZiM7IMxwW/GgJXwmoy5iBmewWBaKXer/h57MPuZ0o60dTXUVqwdlqEfaK91rDXOcG3ttF2OtpS3/gg31HEta2jUEbZToVapkVYFji6NBUWckJkkBXP2u/xslGfhLgB4yQxrPipyDolSOEP3YMaKTosv83sspQkyoH3FTEKQWBl1qmUBIHpxakDZz5eiARBM/vEiB5uiP7M=

@@ -45,10 +45,10 @@ _TBD_<br>
 <details>
   <summary>Tools & Resources</summary>
 
+[Useful Links][resources-links]<br>
 [FAQ][resources-faq]<br>
 [Glossary][resources-glossary]
 </details>
-
 
 [home]: https://github.com/Chingu-cohorts/voyage-wiki/wiki
 [home-contribute]:https://github.com/Chingu-cohorts/voyage-wiki/wiki/Home-Contributing
@@ -65,5 +65,6 @@ _TBD_<br>
 [sprints-readme]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Sprints-Project-Readme
 [sprints-trackissues]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Sprints-Issue-Tracking
 
+[resources-links]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Resources-Links
 [resources-faq]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Resources-FAQ
 [resources-glossary]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Resources-Glossary

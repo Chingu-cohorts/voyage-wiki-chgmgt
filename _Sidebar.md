@@ -49,7 +49,6 @@ _TBD_<br>
 [Glossary][resources-glossary]
 </details>
 
-
 [home]: https://github.com/Chingu-cohorts/voyage-wiki/wiki
 [home-contribute]:https://github.com/Chingu-cohorts/voyage-wiki/wiki/Home-Contributing
 

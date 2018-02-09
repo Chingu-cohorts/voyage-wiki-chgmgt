@@ -51,7 +51,7 @@ _TBD_<br>
 
 
 [home]: https://github.com/Chingu-cohorts/voyage-wiki/wiki
-[home-contribute]: tbd
+[home-contribute]:https://github.com/Chingu-cohorts/voyage-wiki/wiki/Home-Contributing
 
 [voyage-about]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-About
 [voyage-roadmap]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Roadmap

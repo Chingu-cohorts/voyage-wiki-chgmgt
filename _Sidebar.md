@@ -66,4 +66,4 @@ _TBD_<br>
 [sprints-trackissues]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Sprints-Issue-Tracking
 
 [resources-faq]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Resources-FAQ
-[resources-glossary]: tbd
+[resources-glossary]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Resources-Glossary

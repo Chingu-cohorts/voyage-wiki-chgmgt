@@ -1,4 +1,4 @@
-Tier 1 teams follow a different schedule than Tier 2 and Tier 3 teams due to the fact that they have different goals. While all tiers are focused on learning and improving their skills, Tier 1 Voyagers building foundational skills and learning how to work in a team, while Tier 2 & 3 teams are more
+Tier 1 teams follow a different schedule than Tier 2 and Tier 3 teams due to the fact that they have different goals. While all tiers are focused on learning and improving their skills, Tier 1 Voyagers are concentrating on building foundational skills and learning how to work in a team, while Tier 2 & 3 teams are more
 focused on rounding out their skills by working on complex problems.
 
 ## Schedule

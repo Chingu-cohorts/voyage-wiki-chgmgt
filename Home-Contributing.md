@@ -10,8 +10,8 @@ extend your skills.
 
 Making corrections or adding content follows a process very
 similar to the one you use when making contributions to your Voyage projects. 
-GitHub Wiki's are implementated in a manner that doesn't allow changes to be
-approved and merged use the Pull Request (PR) mechanism available to normal
+GitHub Wikis are implemented in a manner that doesn't allow changes to be
+approved and merged using the Pull Request (PR) mechanism available to normal
 repos.
 
 Due to this a "mirror" repo has been created that you will use to make changes

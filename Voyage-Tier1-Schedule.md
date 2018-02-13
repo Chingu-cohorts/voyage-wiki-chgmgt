@@ -1,4 +1,4 @@
-Tier 1 teams follow a different schedule than Tier 2 and Tier 3 teams due to the fact that they have different goals. While all tiers are focused on learning and improving their skills, Tier 1 Voyagers building foundational skills and learning how to work in a team, while Tier 2 & 3 teams are more
+Tier 1 teams follow a different schedule than Tier 2 and Tier 3 teams due to the fact that they have different goals. While all tiers are focused on learning and improving their skills, Tier 1 Voyagers are concentrating on building foundational skills and learning how to work in a team, while Tier 2 & 3 teams are more
 focused on rounding out their skills by working on complex problems.
 
 ## Schedule
@@ -9,7 +9,7 @@ This voyage is eight weeks long and is subdivided into eight sprints comprised o
 |:--------:|:----------:|:----------:|:-----------------------------------------|
 |    -1    | 02/02/2018 | 02/14/2018 | Voyage preparation including PM notification and training. Voyage invitations go out on Feb. 8!  |
 |    0     | 02/08/2018 | 02/15/2018 | Onboarding: Get in slack, write intro, make sure everyone is prepared for the team launch              |
-|    1     | 02/15/2018 | 02/18/2018 | *_Preparation & Team set-up_* - Get to know your team, select a PM, create your Team Charter, and start discussing project ideas |
+|    1     | 02/16/2018 | 02/18/2018 | *_Preparation & Team set-up_* - Get to know your team, select a PM, create your Team Charter, and start discussing project ideas |
 |    2     | 02/19/2018 | 02/25/2018 | *_Design_* - Agree on a project, define its scope, create the backlog, assign tasks, and start your first development sprint |
 |    3     | 02/26/2018 | 03/06/2018 | *_Development_* - Work on your project       |
 |    4     | 03/07/2018 | 03/15/2018 | *_Development_* - Work on your project       |

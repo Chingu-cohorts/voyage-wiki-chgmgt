@@ -12,16 +12,16 @@ There are multiple workflow models you can choose to adopt, but if you are new t
 
 A three level hierarchy of branches is created through which changes are promoted.
 
-- working branches: Are individual branches created by each developer when
+- *_working branches_*: Are individual branches created by each developer when
 they are working on changes and bug fixes. There are 4 basic types of branches: 
 bug, feature, refactor and style, after the type comes the name, it should 
 specify on top of the branch type. For example feature/course-review. Consult
 the wiki for more details and examples. 
-- development: Reflects the candidate code for the next release. Developers
+- *_development_*: Reflects the candidate code for the next release. Developers
 work in working branches, which are then pulled into this branch. All code
 pulled into this branch must be tested and undergo peer review as part of the
 PR process.
-- master: Only updated from PR's from the development branch for release. This
+- *_master_*: Only updated from PR's from the development branch for release. This
 branch always reflects the current production release.
 
 ### The Workflow

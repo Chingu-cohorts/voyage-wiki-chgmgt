@@ -1,4 +1,4 @@
-[Voyage Wiki](#voyage-wiki) | [Voyage](#voyage) | [Your Team](#your-team) | [Git & GitHub](#git-github) | [Project License](#project-license)
+[Voyage Wiki](#voyage-wiki) | [Voyage](#voyage) | [Your Team](#your-team) | [Git & GitHub](#git-github) | [Slack](#slack) | [Project License](#project-license)
 
 ## Voyage Wiki
 
@@ -123,6 +123,16 @@ In other words, **_we are ~~lazy~~ efficient_**.
 At the start of a Voyage your team's repo will be automatically set up and your team members will be authorized for access. If you are having access issues it's most likely due to an authorization issue. Your PM has the admin privileges necessary to correct this type of issue.
 
 [Back to Top...](#voyage-wiki)
+
+## Slack
+
+### Why Slack?
+
+We chose Slack and have been using it since the start of the Chingus due to its widespread use, features, and most importantly the fact that its used in many companies so it was felt that it would help prepare Chingus to be “job ready”. Other tools are periodically discussed, but so far none have had benefits that outweigh the cost and disruption associated with conversion. We have a considerable amount of automation built up in Slack that we depend on.
+
+### Why are my older Slack posts disappearing?
+
+Chingu uses the free version of Slack with automatically limits the number of viewable and searchable messages to 10,000. See [Slack Help](https://get.slack.help/hc/en-us/articles/115002422943-Message-and-storage-limits-on-the-Free-plan)
 
 ## Project License
 

@@ -1,5 +1,5 @@
 # Introduction
-The IdeaNebulae Project team uses GitHub not only for source code management, but also for issue reporting. The purpose of the following guidelines is to provide guidance on how to report an issue. You might be asking yourself "How hard can this be?". You might be surprised to find out how often bad issue reports are actually created. Here are some examples:
+Your team should consider using GitHub not only for source code management, but also for issue reporting. The purpose of the following guidelines is to provide guidance on how to report an issue. You might be asking yourself "How hard can this be?". You might be surprised to find out how often bad issue reports are actually created. Here are some examples:
 
 - "The profile screen doesn't work right. Please correct this asap."
 - "When I hit the Option-B key combination nothing happens."
@@ -77,4 +77,4 @@ Issues and tasks added by the team typically start in state:backlog and move to 
 
 # Examples
 
-The best source of examples for how issues are to be defined an labeled is the [IdeaNebulae Issue Log](https://github.com/chingu-voyage3/ideanebulae/issues).
+The best source of examples for how issues are to be defined an labeled is the [Voyage Issue Log](https://github.com/Chingu-cohorts/voyage-wiki/issues).

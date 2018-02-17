@@ -14,7 +14,8 @@
 [Voyage Roadmap][voyage-roadmap] <br>
 [..Tier 1 Schedule][voyage-tier1]<br>
 [..Tier 2 & 3 Schedule][voyage-tier23]<br>
-[Voyage Support][voyage-support]
+[Voyage Support][voyage-support]<br>
+[What Team Am I On?][voyage-teams]
 </details>
 
 <hr/>
@@ -60,6 +61,7 @@ _TBD_<br>
 [voyage-tier1]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Tier1-Schedule
 [voyage-tier23]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Tier23-Schedule
 [voyage-support]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Support
+[voyage-teams]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Teams
 
 [projsetup-obligations]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/ProjSetup-Your-Obligations
 [projsetup-establishteam]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/ProjSetup-Establishing-the-Team

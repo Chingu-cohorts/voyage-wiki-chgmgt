@@ -34,6 +34,7 @@
   <summary>Development Sprints</summary>
 
 [Creating a Readme][sprints-readme]<br>
+[Pair Programming][sprints-pairprogramming]<br>
 [Tracking Issues][sprints-trackissues]
 </details>
 <hr/>
@@ -69,6 +70,7 @@ _TBD_<br>
 [projsetup-defineproj]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/ProjSetup-Project-Definition
 
 [sprints-readme]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Sprints-Project-Readme
+[sprints-pairprogramming]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Sprints-PairProgramming
 [sprints-trackissues]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Sprints-Issue-Tracking
 
 [resources-links]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Resources-Links

@@ -12,4 +12,10 @@ Please note that the Guidelines presented below are sufficient to protect most p
 - Never communicate secrets outside of your team. Always double check the recipient list prior to transmission to ensure that it will be sent only to authorized recipients.
 - Never write secrets down on paper. Never write secrets down on paper. Never write secrets down on paper. Never write secrets down on paper. Never write secrets down on paper. Never write secrets down on paper. GOT IT?
 
+## Techniques
+
+One option for protecting application secrets is to take them out of your code and place them in environment variables. In a local `dev` setup you can place these in a `.env` file, which should be added to `.gitignore` to prevent them from being exposed in GitHub. Using the `dotenv` library makes this easy.
+
+In a production setting, like Heroku, you can set these environment variables through the dashboard.
+
 -----

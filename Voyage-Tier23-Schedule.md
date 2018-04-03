@@ -17,7 +17,7 @@ This voyage is eight weeks long and is subdivided into eight sprints, each of wh
 |    6     | 03/26/2018 | 04/01/2018 | *_Development_* - Work on your project       |
 |    7     | 04/02/2018 | 04/08/2018 | *_Development_* - Work on your project       |
 |    8     | 04/09/2018 | 04/15/2018 | *_Development_* - Work on your project       | 
-|    8     | 04/16/2018 | 04/20/2018 | *_Closure_* - Showcase your finished project & celebrate your success as a team |
+|    9     | 04/16/2018 | 04/20/2018 | *_Closure_* - Showcase your finished project & celebrate your success as a team |
 
 *Dates are formatted as `mm/dd/yyyy`
 

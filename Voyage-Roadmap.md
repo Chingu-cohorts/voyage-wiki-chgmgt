@@ -8,10 +8,11 @@ At Chingu, we build to learn. Below is the project roadmap for teams:
 |:------:|:----------------|:----:|:---------------|
 | **Act 1** | **[Project Setup](#act-1---project-setup)**   | #1   | Meet Your Team |
 |       |                 | #2   | Set Goals & Expectations |
-|       |                 | #3   | Brainstorm Project Ideas |
-|       |                 | #4   | Define Your Workflow |
-|       |                 | #5   | Setup Your Development Environment |
-|       |                 | #6   | Define Your MVP |
+|       |                 | #3   | Set a Team Lead |
+|       |                 | #4   | Brainstorm Project Ideas |
+|       |                 | #5   | Define Your Workflow |
+|       |                 | #6   | Setup Your Development Environment |
+|       |                 | #7   | Define Your MVP |
 | **Act 2** | **[Development Sprints](#act-2---development-sprints)** <br>(repeated for each Sprint) | #1   | Plan the Sprint |
 |       |                 | #2   | Start the Sprint |
 |       |                 | #3   | Team Standup Review |
@@ -81,7 +82,27 @@ At Chingu, we build to learn. Below is the project roadmap for teams:
 
 *Voyages go by faster than you think and you need to focus on learning through building rather than getting caught in research rabbit-holes*.
 
-## #3 — Brainstorm Project Options
+## #3 — Set a Team-Lead 
+
+*Goal*: As a team decide who will be the Team-Lead (similar to a Project Manager). 
+
+*Commitment*: 
+
+> This may be challenging for the group, but it is critical that the team sets a Team-Lead. 
+
+> The team may want to do it together, but our experience is that teams who go with that style almost always fail. 
+
+> The Team-Lead will serve as the de facto Project Manager and will have access to resources and will be added to a support channel with all the Voyage's Team-Leads. 
+
+*Learning Goals*: 
+
+> Either someone volunteers or the you suggest someone based on their background/ schedule. 
+
+> Feel free to message @chance if your team is having a tough time with this. 
+
+*A Chingu-Facilitator will reach out after the first week to find out who is the Team-Lead. Teams that can't decide on a Team-Lead may be subject to closure as progress is tough without someone invested in moving it forward.*.
+
+## #4 — Brainstorm Project Options
 
 *Goal*: Decide on a project to pursue.
 
@@ -105,7 +126,7 @@ level.
 *It is better to underpromise and overdeliver _especially if this is your first Voyage_*
      
 
-## #4 —Define your Workflow
+## #5 —Define your Workflow
 
 *Goal*: Decide on which workflow tools the team will use.
 
@@ -141,7 +162,7 @@ out!!)
 
 *A proper workflow and concise collection of workflow tools is what makes the difference between a team that makes it and one that doesn't.*
       
-## #5 — Set up
+## #6 — Set up
 
 *Goal*: Set up and explore your team's workflow tools.
 
@@ -166,7 +187,7 @@ configured.
 
 *Get comfortable early so you can focus on building not technical difficulties!* 
 
-## #6— Define the MVP  
+## #7— Define the MVP  
    
 *Goal*: Hold a meeting to decide on the minimum viable product (MVP).
 

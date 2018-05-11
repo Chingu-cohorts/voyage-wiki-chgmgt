@@ -224,7 +224,7 @@ features and polish*
 
 # Act 2 - Development Sprints
 
-## Plan the Sprint
+## #1 Plan the Sprint
       
 *Goal*: Subdivide the MVP into a feature(s) sprint.
 

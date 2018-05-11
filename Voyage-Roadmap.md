@@ -100,6 +100,8 @@ At Chingu, we build to learn. Below is the project roadmap for teams:
 
 > Feel free to message @chance if your team is having a tough time with this. 
 
+> People often think that the Team-Lead should be the most knowledgeable member, but we have not found that to be the case at all. We will provide support and resources so that anyone can take on this role. 
+
 *A Chingu-Facilitator will reach out after the first week to find out who is the Team-Lead. Teams that can't decide on a Team-Lead may be subject to closure as progress is tough without someone invested in moving it forward.*.
 
 ## #4 — Brainstorm Project Options

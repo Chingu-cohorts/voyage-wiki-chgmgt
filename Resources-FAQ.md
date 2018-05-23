@@ -134,6 +134,20 @@ We chose Slack and have been using it since the start of the Chingus due to its 
 
 Chingu uses the free version of Slack with automatically limits the number of viewable and searchable messages to 10,000. See [Slack Help](https://get.slack.help/hc/en-us/articles/115002422943-Message-and-storage-limits-on-the-Free-plan)
 
+### What Slackbots are Installed?
+
+The command `/` entered by itself in the Slack message box will display a list of the Slackbots installed in your channel?
+
+### What Slackbots are Available?
+
+To see what Slackbots are available consult the [Slack App Directory](https://chingu-voyage4.slack.com/apps). Also keep in mind that documentation for how to used individual Slackbots is also located on this site.
+
+### Message Formatting
+
+Slack supports various ways to format your messages to help in creating clear and readable text. Formatting options are documented [Slack - Format your messages](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages).
+
+One formatting option to emphasize is to format any code you include in messages by surrounding it with 3 backticks ('`') just as you would in Markdown. This makes it far easier to read than normal prose.
+
 ## Project License
 
 ### Why Are Licenses Important?

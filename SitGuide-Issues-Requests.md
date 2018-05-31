@@ -60,4 +60,4 @@ scope:saga            ..Considerable effort required that consists of more than 
 Issue Type and Priority labels are to be assigned by whoever creates the issue. Status and Scope labels are maintained by the Development Team.
 
 # Examples
-The best source of examples for how issues are to be defined and labeled is the [PMRoK Issue Log](https://github.com/Chingu-cohorts/pmrok/issues).
+The best source of examples for how issues are to be defined and labeled is the [Issue Log](https://github.com/Chingu-cohorts/voyage-wiki/issues).

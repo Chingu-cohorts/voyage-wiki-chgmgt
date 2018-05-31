@@ -17,7 +17,6 @@
 [Voyage Support][voyage-support]<br>
 [What Team Am I On?][voyage-teams]
 </details>
-
 <hr/>
  
 <details>
@@ -53,6 +52,49 @@ _TBD_<br>
 [FAQ][resources-faq]<br>
 [Glossary][resources-glossary]
 </details>
+<hr/>
+
+### Project Management
+<details>
+  <summary>About Project Management</summary>
+
+[The Chingu PMRoK][pm-home]
+</details>
+<hr/>
+
+<details>
+  <summary>About Voyages</summary>
+
+[Voyage Roadmap][pm-voyage-roadmap] <br>
+[Voyage Workflow][voyage-workflow]
+</details>
+<hr/>
+ 
+<details>
+  <summary>Managing a Project</summary>
+
+[Project Manager Concepts][managingproj-pmconcepts]<br>
+[Your Sprints][managingproj-sprints]<br>
+[Conducting an MVP][managingproj-mvp]<br>
+[Project Closure][managingproj-closure]<br>
+[Using the Wizard][managingproj-wizard]
+</details>
+<hr/>
+
+<details>
+  <summary>Guidance</summary>
+
+[Situational Guidance][situationguide]<br>
+[Managing Conflict][managingconflict]
+</details>
+<hr/>
+
+<details>
+  <summary>Resources</summary>
+
+[Tools & Resources][resources-tools]<br>
+[PM FAQ][resources-pmfaq]
+</details>
 
 [home]: https://github.com/Chingu-cohorts/voyage-wiki/wiki
 [home-contribute]:https://github.com/Chingu-cohorts/voyage-wiki/wiki/Home-Contributing
@@ -76,3 +118,20 @@ _TBD_<br>
 [resources-links]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Resources-Links
 [resources-faq]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Resources-FAQ
 [resources-glossary]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Resources-Glossary
+
+[pm-home]: PM-Home
+
+[pm-voyage-roadmap]: PM-Voyage-Roadmap
+[voyage-workflow]: Voyage-Workflow
+
+[managingproj-pmconcepts]: ManagingProj-PM-Concepts
+[managingproj-sprints]: ManagingProj-Sprints
+[managingproj-mvp]: ManagingProj-MVP
+[managingproj-closure]: ManagingProj-Closure
+[managingproj-wizard]: ManagingProj-Wizard
+
+[situationguide]: Situational-Guidance
+[managingconflict]: Managing-Conflict
+
+[resources-tools]: Resources-Tools
+[resources-pmfaq]: Resources-PMFAQ

@@ -42,8 +42,8 @@
 **Managing a Project**
 <br>[Project Manager Concepts][managingproj-pmconcepts]
 <br>[Your Sprints][managingproj-sprints]
-<br>[Conducting an MVP][managingproj-mvp]
-<br>[Project Closure][managingproj-closure]
+<br>[Conducting an MVP][managingproj-mvp] - _TBD_
+<br>[Project Closure][managingproj-closure] - _TBD_
 <br>[Using the Wizard][managingproj-wizard]
 
 **Guidance**

@@ -46,9 +46,17 @@
 <br>[Project Closure][managingproj-closure] - _TBD_
 <br>[Using the Wizard][managingproj-wizard]
 
-**Guidance**
-<br>[Situational Guidance][situationguide]
-<br>[Managing Conflict][managingconflict]
+**Situational Guidance**
+<br>[Overview][situationguide]
+<br>[Building the Project Backlog][sitguide-backlog]
+<br>[Managing Application Secrets][sitguide-secrets]
+<br>[Managing Team Documentation][sitguide-documentation]
+<br>[Managing Issues & Requests][sitguide-issues]
+<br>[Dealing with "Analysis Paralysis"][sitguide-paralysis]
+
+**Managing Conflict**
+<br>[Overview][managingconflict]
+<br>[Unresponsive Team Member][conflict-unresponsive]
 
 **Resources**
 <br>[Tools & Resources][resources-tools]
@@ -89,7 +97,14 @@
 [managingproj-wizard]: ManagingProj-Wizard
 
 [situationguide]: Situational-Guidance
+[sitguide-backlog]: SitGuide-Project-Backlog
+[sitguide-secrets]: SitGuide-Application-Secrets
+[sitguide-documentation]: SitGuide-Team-Doc
+[sitguide-issues]: SitGuide-Issues-Requests
+[sitguide-paralysis]: SitGuide-Analysis-Paralysis
+
 [managingconflict]: Managing-Conflict
+[conflict-unresponsive]: ManagingConflict-Unresponsive-Team
 
 [resources-tools]: Resources-Tools
 [resources-pmfaq]: Resources-PMFAQ

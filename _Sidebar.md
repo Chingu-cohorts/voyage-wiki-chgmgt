@@ -1,100 +1,58 @@
 ## Table of Contents
-<details>
-  <summary>About this Wiki</summary>
+**About this Wiki**
+<br>[Home][home]
+<br>[How to Contribute][home-contribute]
 
-[Home][home]<br>
-[How to Contribute][home-contribute]
-</details>
-<hr/>
+### VOYAGES
+**About Voyages**
+<br>[About Voyages][voyage-about]
+<br>[Voyage Roadmap][voyage-roadmap]
+<br>[..Tier 1 Schedule][voyage-tier1]
+<br>[..Tier 2 & 3 Schedule][voyage-tier23]
+<br>[Voyage Support][voyage-support]
+<br>[What Team Am I On?][voyage-teams]
 
-<details>
-  <summary>About Voyages</summary>
+**Project Setup**
+<br>[Understanding Your Obligations][projsetup-obligations]
+<br>[Establishing the Team][projsetup-establishteam]
+<br>[Setting Up Your Git Workflow][projsetup-gitworkflow]
+<br>[Defining Your Project][projsetup-defineproj]
 
-[About Voyages][voyage-about] <br>
-[Voyage Roadmap][voyage-roadmap] <br>
-[..Tier 1 Schedule][voyage-tier1]<br>
-[..Tier 2 & 3 Schedule][voyage-tier23]<br>
-[Voyage Support][voyage-support]<br>
-[What Team Am I On?][voyage-teams]
-</details>
-<hr/>
+**Development Sprints**
+<br>[Creating a Readme][sprints-readme]
+<br>[Pair Programming][sprints-pairprogramming]
+<br>[Tracking Issues][sprints-trackissues]
+
+**Project Closure**
+<br>_TBD_
+
+**Tools & Resources**
+<br>[Useful Links][resources-links]
+<br>[FAQ][resources-faq]
+<br>[Glossary][resources-glossary]
+
+### PROJECT MANAGEMENT
+**About Project Management**
+<br>[The Chingu PMRoK][pm-home]
+
+**About Voyages**
+<br>[Voyage Roadmap][pm-voyage-roadmap]
+<br>[Voyage Workflow][voyage-workflow]
  
-<details>
-  <summary>Project Setup</summary>
+**Managing a Project**
+<br>[Project Manager Concepts][managingproj-pmconcepts]
+<br>[Your Sprints][managingproj-sprints]
+<br>[Conducting an MVP][managingproj-mvp]
+<br>[Project Closure][managingproj-closure]
+<br>[Using the Wizard][managingproj-wizard]
 
-[Understanding Your Obligations][projsetup-obligations]<br>
-[Establishing the Team][projsetup-establishteam]<br>
-[Setting Up Your Git Workflow][projsetup-gitworkflow]<br>
-[Defining Your Project][projsetup-defineproj]
-</details>
-<hr/>
+**Guidance**
+<br>[Situational Guidance][situationguide]
+<br>[Managing Conflict][managingconflict]
 
-<details>
-  <summary>Development Sprints</summary>
-
-[Creating a Readme][sprints-readme]<br>
-[Pair Programming][sprints-pairprogramming]<br>
-[Tracking Issues][sprints-trackissues]
-</details>
-<hr/>
-
-<details>
-  <summary>Project Closure</summary>
-
-_TBD_<br>
-</details>
-<hr/>
-
-<details>
-  <summary>Tools & Resources</summary>
-
-[Useful Links][resources-links]<br>
-[FAQ][resources-faq]<br>
-[Glossary][resources-glossary]
-</details>
-<hr/>
-
-### Project Management
-<details>
-  <summary>About Project Management</summary>
-
-[The Chingu PMRoK][pm-home]
-</details>
-<hr/>
-
-<details>
-  <summary>About Voyages</summary>
-
-[Voyage Roadmap][pm-voyage-roadmap] <br>
-[Voyage Workflow][voyage-workflow]
-</details>
-<hr/>
- 
-<details>
-  <summary>Managing a Project</summary>
-
-[Project Manager Concepts][managingproj-pmconcepts]<br>
-[Your Sprints][managingproj-sprints]<br>
-[Conducting an MVP][managingproj-mvp]<br>
-[Project Closure][managingproj-closure]<br>
-[Using the Wizard][managingproj-wizard]
-</details>
-<hr/>
-
-<details>
-  <summary>Guidance</summary>
-
-[Situational Guidance][situationguide]<br>
-[Managing Conflict][managingconflict]
-</details>
-<hr/>
-
-<details>
-  <summary>Resources</summary>
-
-[Tools & Resources][resources-tools]<br>
-[PM FAQ][resources-pmfaq]
-</details>
+**Resources**
+<br>[Tools & Resources][resources-tools]
+<br>[PM FAQ][resources-pmfaq]
 
 [home]: https://github.com/Chingu-cohorts/voyage-wiki/wiki
 [home-contribute]:https://github.com/Chingu-cohorts/voyage-wiki/wiki/Home-Contributing

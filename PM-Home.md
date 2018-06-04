@@ -31,5 +31,5 @@ that issues and questions are addressed in a timely manner and so serve as
 both an ongoing reference as well as a historical record.
 
 For information about how to open an issue see
-[Tracking Issues](https://github.com/Chingu-cohorts/voyage-wiki/wiki/Sprints-Issue-Tracking) in
+[Tracking Issues](Sprints-Issue-Tracking) in
 this wiki.

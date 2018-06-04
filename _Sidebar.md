@@ -54,28 +54,28 @@
 <br>[Tools & Resources][resources-tools]
 <br>[PM FAQ][resources-pmfaq]
 
-[home]: https://github.com/Chingu-cohorts/voyage-wiki/wiki
-[home-contribute]:https://github.com/Chingu-cohorts/voyage-wiki/wiki/Home-Contributing
+[home]: .
+[home-contribute]: Home-Contributing
 
-[voyage-about]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-About
-[voyage-roadmap]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Roadmap
-[voyage-tier1]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Tier1-Schedule
-[voyage-tier23]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Tier23-Schedule
-[voyage-support]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Support
-[voyage-teams]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Teams
+[voyage-about]: Voyage-About
+[voyage-roadmap]: Voyage-Roadmap
+[voyage-tier1]: Voyage-Tier1-Schedule
+[voyage-tier23]: Voyage-Tier23-Schedule
+[voyage-support]: Voyage-Support
+[voyage-teams]: Voyage-Teams
 
-[projsetup-obligations]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/ProjSetup-Your-Obligations
-[projsetup-establishteam]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/ProjSetup-Establishing-the-Team
-[projsetup-gitworkflow]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/ProjSetup-Git-Workflow
-[projsetup-defineproj]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/ProjSetup-Project-Definition
+[projsetup-obligations]: ProjSetup-Your-Obligations
+[projsetup-establishteam]: ProjSetup-Establishing-the-Team
+[projsetup-gitworkflow]: ProjSetup-Git-Workflow
+[projsetup-defineproj]: ProjSetup-Project-Definition
 
-[sprints-readme]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Sprints-Project-Readme
-[sprints-pairprogramming]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Sprints-PairProgramming
-[sprints-trackissues]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Sprints-Issue-Tracking
+[sprints-readme]: Sprints-Project-Readme
+[sprints-pairprogramming]: Sprints-PairProgramming
+[sprints-trackissues]: Sprints-Issue-Tracking
 
-[resources-links]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Resources-Links
-[resources-faq]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Resources-FAQ
-[resources-glossary]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Resources-Glossary
+[resources-links]: Resources-Links
+[resources-faq]: Resources-FAQ
+[resources-glossary]: Resources-Glossary
 
 [pm-home]: PM-Home
 

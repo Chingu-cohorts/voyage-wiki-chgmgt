@@ -14,7 +14,7 @@ To report an issue or to request a new topic open an issue in the [Voyage Wiki I
 
 ### What's Expected of Me?
 
-[Section 02.Understanding Your Obligations](https://github.com/Chingu-cohorts/voyage-wiki/wiki/Section-02.-Understanding-Your-Obligations) cover the expectation for Project Managers and Team Members in detail. However, keep in mind that **_consistency_**, **_participation_**, and **_commitment_** are key to your Voyage success. Maximizing your Voyage benefits will require that you are committed to consistent participation and a commitment  to being open and fair with your team mates. You are all together whether it be in success or failure.
+Section [Understanding Your Obligations](ProjSetup-Your-Obligations) cover the expectation for Project Managers and Team Members in detail. However, keep in mind that **_consistency_**, **_participation_**, and **_commitment_** are key to your Voyage success. Maximizing your Voyage benefits will require that you are committed to consistent participation and a commitment  to being open and fair with your team mates. You are all together whether it be in success or failure.
 
 ### Where Can I Find More Information About this Voyage?
 
@@ -76,7 +76,7 @@ Your team is free to structure itself in anyway it feels is best for success tho
 
 ### What Should a Team Do First?
 
-A careful review of the emails and Medium articles for the current Voyage is the best starting point. Next, look at the contents of this wiki, and then discuss [Section 03.Establishing the Team](https://github.com/Chingu-cohorts/voyage-wiki/wiki/Section-03.-Establishing-the-Team) with the project team.
+A careful review of the emails and Medium articles for the current Voyage is the best starting point. Next, look at the contents of this wiki, and then discuss Section [Establishing the Team](ProjSetup-Establishing-the-Team) with the project team.
 
 ### Are Soft Skills Important?
 

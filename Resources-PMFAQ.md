@@ -28,7 +28,9 @@ Everyone needs help sometimes. Be prepared to ask for it when you need it.  Firs
 in-progress
 
 ### Now everyone has said Hi yet in the team-chat. What do I do?! 
-in-progress## Git & Github
+in-progress
+
+## Git & Github
 in-progress
 ###
 

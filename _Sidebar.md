@@ -4,13 +4,13 @@
 <br>[How to Contribute][home-contribute]
 
 ### VOYAGES
+**Your Voyage**
+<br>[Schedule][voyage-schedule]
+
 **About Voyages**
 <br>[About Voyages][voyage-about]
 <br>[Voyage Roadmap][voyage-roadmap]
-<br>[..Tier 1 Schedule][voyage-tier1]
-<br>[..Tier 2 & 3 Schedule][voyage-tier23]
 <br>[Voyage Support][voyage-support]
-<br>[What Team Am I On?][voyage-teams]
 
 **Project Setup**
 <br>[Understanding Your Obligations][projsetup-obligations]
@@ -65,12 +65,11 @@
 [home]: .
 [home-contribute]: Home-Contributing
 
+[voyage-schedule]: https://docs.google.com/document/d/16atF6raTqfe31tZ82Syf35M-rm9XY2-D8RRsfO0dZUc/edit?usp=sharing
+
 [voyage-about]: Voyage-About
 [voyage-roadmap]: Voyage-Roadmap
-[voyage-tier1]: Voyage-Tier1-Schedule
-[voyage-tier23]: Voyage-Tier23-Schedule
 [voyage-support]: Voyage-Support
-[voyage-teams]: Voyage-Teams
 
 [projsetup-obligations]: ProjSetup-Your-Obligations
 [projsetup-establishteam]: ProjSetup-Establishing-the-Team

@@ -1,78 +1,109 @@
 ## Table of Contents
-<details>
-  <summary>About this Wiki</summary>
+**About this Wiki**
+<br>[Home][home]
+<br>[How to Contribute][home-contribute]
 
-[Home][home]<br>
-[How to Contribute][home-contribute]
-</details>
-<hr/>
+### VOYAGES
+**Your Voyage**
+<br>[Schedule][voyage-schedule]
 
-<details>
-  <summary>About Voyages</summary>
+**About Voyages**
+<br>[About Voyages][voyage-about]
+<br>[Voyage Roadmap][voyage-roadmap]
+<br>[Voyage Support][voyage-support]
 
-[About Voyages][voyage-about] <br>
-[Voyage Roadmap][voyage-roadmap] <br>
-[..Tier 1 Schedule][voyage-tier1]<br>
-[..Tier 2 & 3 Schedule][voyage-tier23]<br>
-[Voyage Support][voyage-support]<br>
-[What Team Am I On?][voyage-teams]
-</details>
+**Project Setup**
+<br>[Understanding Your Obligations][projsetup-obligations]
+<br>[Establishing the Team][projsetup-establishteam]
+<br>[Setting Up Your Git Workflow][projsetup-gitworkflow]
+<br>[Defining Your Project][projsetup-defineproj]
 
-<hr/>
+**Development Sprints**
+<br>[Creating a Readme][sprints-readme]
+<br>[Pair Programming][sprints-pairprogramming]
+<br>[Tracking Issues][sprints-trackissues]
+
+**Project Closure**
+<br>_TBD_
+
+**Tools & Resources**
+<br>[Useful Links][resources-links]
+<br>[FAQ][resources-faq]
+<br>[Glossary][resources-glossary]
+
+### PROJECT MANAGEMENT
+**About Project Management**
+<br>[The Chingu PMRoK][pm-home]
+
+**About Voyages**
+<br>[Voyage Roadmap][pm-voyage-roadmap]
+<br>[Voyage Workflow][voyage-workflow]
  
-<details>
-  <summary>Project Setup</summary>
+**Managing a Project**
+<br>[Project Manager Concepts][managingproj-pmconcepts]
+<br>[Your Sprints][managingproj-sprints]
+<br>[Conducting an MVP][managingproj-mvp] - _TBD_
+<br>[Project Closure][managingproj-closure] - _TBD_
+<br>[Using the Wizard][managingproj-wizard]
 
-[Understanding Your Obligations][projsetup-obligations]<br>
-[Establishing the Team][projsetup-establishteam]<br>
-[Setting Up Your Git Workflow][projsetup-gitworkflow]<br>
-[Defining Your Project][projsetup-defineproj]
-</details>
-<hr/>
+**Situational Guidance**
+<br>[Overview][situationguide]
+<br>[Building the Project Backlog][sitguide-backlog]
+<br>[Managing Application Secrets][sitguide-secrets]
+<br>[Managing Team Documentation][sitguide-documentation]
+<br>[Managing Issues & Requests][sitguide-issues]
+<br>[Dealing with "Analysis Paralysis"][sitguide-paralysis]
 
-<details>
-  <summary>Development Sprints</summary>
+**Managing Conflict**
+<br>[Overview][managingconflict]
+<br>[Unresponsive Team Member][conflict-unresponsive]
 
-[Creating a Readme][sprints-readme]<br>
-[Pair Programming][sprints-pairprogramming]<br>
-[Tracking Issues][sprints-trackissues]
-</details>
-<hr/>
+**Resources**
+<br>[Tools & Resources][resources-tools]
+<br>[PM FAQ][resources-pmfaq]
 
-<details>
-  <summary>Project Closure</summary>
+[home]: .
+[home-contribute]: Home-Contributing
 
-_TBD_<br>
-</details>
-<hr/>
+[voyage-schedule]: https://docs.google.com/document/d/16atF6raTqfe31tZ82Syf35M-rm9XY2-D8RRsfO0dZUc/edit?usp=sharing
 
-<details>
-  <summary>Tools & Resources</summary>
+[voyage-about]: Voyage-About
+[voyage-roadmap]: Voyage-Roadmap
+[voyage-support]: Voyage-Support
 
-[Useful Links][resources-links]<br>
-[FAQ][resources-faq]<br>
-[Glossary][resources-glossary]
-</details>
+[projsetup-obligations]: ProjSetup-Your-Obligations
+[projsetup-establishteam]: ProjSetup-Establishing-the-Team
+[projsetup-gitworkflow]: ProjSetup-Git-Workflow
+[projsetup-defineproj]: ProjSetup-Project-Definition
 
-[home]: https://github.com/Chingu-cohorts/voyage-wiki/wiki
-[home-contribute]:https://github.com/Chingu-cohorts/voyage-wiki/wiki/Home-Contributing
+[sprints-readme]: Sprints-Project-Readme
+[sprints-pairprogramming]: Sprints-PairProgramming
+[sprints-trackissues]: Sprints-Issue-Tracking
 
-[voyage-about]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-About
-[voyage-roadmap]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Roadmap
-[voyage-tier1]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Tier1-Schedule
-[voyage-tier23]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Tier23-Schedule
-[voyage-support]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Support
-[voyage-teams]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Voyage-Teams
+[resources-links]: Resources-Links
+[resources-faq]: Resources-FAQ
+[resources-glossary]: Resources-Glossary
 
-[projsetup-obligations]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/ProjSetup-Your-Obligations
-[projsetup-establishteam]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/ProjSetup-Establishing-the-Team
-[projsetup-gitworkflow]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/ProjSetup-Git-Workflow
-[projsetup-defineproj]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/ProjSetup-Project-Definition
+[pm-home]: PM-Home
 
-[sprints-readme]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Sprints-Project-Readme
-[sprints-pairprogramming]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Sprints-PairProgramming
-[sprints-trackissues]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Sprints-Issue-Tracking
+[pm-voyage-roadmap]: PM-Voyage-Roadmap
+[voyage-workflow]: Voyage-Workflow
 
-[resources-links]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Resources-Links
-[resources-faq]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Resources-FAQ
-[resources-glossary]: https://github.com/Chingu-cohorts/voyage-wiki/wiki/Resources-Glossary
+[managingproj-pmconcepts]: ManagingProj-PM-Concepts
+[managingproj-sprints]: ManagingProj-Sprints
+[managingproj-mvp]: ManagingProj-MVP
+[managingproj-closure]: ManagingProj-Closure
+[managingproj-wizard]: ManagingProj-Wizard
+
+[situationguide]: Situational-Guidance
+[sitguide-backlog]: SitGuide-Project-Backlog
+[sitguide-secrets]: SitGuide-Application-Secrets
+[sitguide-documentation]: SitGuide-Team-Doc
+[sitguide-issues]: SitGuide-Issues-Requests
+[sitguide-paralysis]: SitGuide-Analysis-Paralysis
+
+[managingconflict]: Managing-Conflict
+[conflict-unresponsive]: ManagingConflict-Unresponsive-Team
+
+[resources-tools]: Resources-Tools
+[resources-pmfaq]: Resources-PMFAQ

@@ -14,7 +14,7 @@ To report an issue or to request a new topic open an issue in the [Voyage Wiki I
 
 ### What's Expected of Me?
 
-[Section 02.Understanding Your Obligations](https://github.com/Chingu-cohorts/voyage-wiki/wiki/Section-02.-Understanding-Your-Obligations) cover the expectation for Project Managers and Team Members in detail. However, keep in mind that **_consistency_**, **_participation_**, and **_commitment_** are key to your Voyage success. Maximizing your Voyage benefits will require that you are committed to consistent participation and a commitment  to being open and fair with your team mates. You are all together whether it be in success or failure.
+Section [Understanding Your Obligations](ProjSetup-Your-Obligations) cover the expectation for Project Managers and Team Members in detail. However, keep in mind that **_consistency_**, **_participation_**, and **_commitment_** are key to your Voyage success. Maximizing your Voyage benefits will require that you are committed to consistent participation and a commitment  to being open and fair with your team mates. You are all together whether it be in success or failure.
 
 ### Where Can I Find More Information About this Voyage?
 
@@ -76,7 +76,7 @@ Your team is free to structure itself in anyway it feels is best for success tho
 
 ### What Should a Team Do First?
 
-A careful review of the emails and Medium articles for the current Voyage is the best starting point. Next, look at the contents of this wiki, and then discuss [Section 03.Establishing the Team](https://github.com/Chingu-cohorts/voyage-wiki/wiki/Section-03.-Establishing-the-Team) with the project team.
+A careful review of the emails and Medium articles for the current Voyage is the best starting point. Next, look at the contents of this wiki, and then discuss Section [Establishing the Team](ProjSetup-Establishing-the-Team) with the project team.
 
 ### Are Soft Skills Important?
 
@@ -133,6 +133,20 @@ We chose Slack and have been using it since the start of the Chingus due to its 
 ### Why are my older Slack posts disappearing?
 
 Chingu uses the free version of Slack with automatically limits the number of viewable and searchable messages to 10,000. See [Slack Help](https://get.slack.help/hc/en-us/articles/115002422943-Message-and-storage-limits-on-the-Free-plan)
+
+### What Slackbots are Installed?
+
+The command `/` entered by itself in the Slack message box will display a list of the Slackbots installed in your channel?
+
+### What Slackbots are Available?
+
+To see what Slackbots are available consult the [Slack App Directory](https://chingu-voyage4.slack.com/apps). Also keep in mind that documentation for how to used individual Slackbots is also located on this site.
+
+### Message Formatting
+
+Slack supports various ways to format your messages to help in creating clear and readable text. Formatting options are documented [Slack - Format your messages](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages).
+
+One formatting option to emphasize is to format any code you include in messages by surrounding it with 3 backticks ('`') just as you would in Markdown. This makes it far easier to read than normal prose.
 
 ## Project License
 

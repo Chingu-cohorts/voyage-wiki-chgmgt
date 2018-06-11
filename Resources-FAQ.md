@@ -98,7 +98,7 @@ If a team member stops communicating the PM should start by emailing the individ
 
 ### What if it's the PM who isn't responding?
 
-Send a direct message (DM) to @chance as soon as possible.
+[Open a ticket](Getting-Help) as soon as possible.
 
 ### What should I do if there is disagreement within the team?
 

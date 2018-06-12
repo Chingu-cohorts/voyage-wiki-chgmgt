@@ -6,6 +6,7 @@
 ### VOYAGES
 **Your Voyage**
 <br>[Schedule][voyage-schedule]
+<br>[Get Help][help]
 
 **About Voyages**
 <br>[About Voyages][voyage-about]
@@ -65,7 +66,8 @@
 [home]: .
 [home-contribute]: Home-Contributing
 
-[voyage-schedule]: https://docs.google.com/document/d/16atF6raTqfe31tZ82Syf35M-rm9XY2-D8RRsfO0dZUc/edit?usp=sharing
+[voyage-schedule]: https://docs.google.com/spreadsheets/d/1aVqpFo50rrMeEg5lYp_mJ65MHwgR9jVhJ5OJ6gVyJzM/edit?usp=sharing
+[help]: Getting-Help
 
 [voyage-about]: Voyage-About
 [voyage-roadmap]: Voyage-Roadmap

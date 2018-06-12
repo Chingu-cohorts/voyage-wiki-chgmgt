@@ -2,7 +2,7 @@
 
 If everyone was fully committed and remained that way team projects would be much easier to finish, but the reality is that life will happen and some members will have to drop out. People will get developer jobs, personal emergencies will occur, etc. 
 
-This reality not as a negative, but as a tremendous opportunity to level-up your confidence and ability to adapt. It is because remote team software projects are so challenging that they can be such powerful learning experiences. This is especially true in a world of technological acceleration where an ability to persevere through challenges and learn quickly is highly rewarded. 
+This reality should not be seen as a negative, but as a tremendous opportunity to level-up your confidence and ability to adapt. It is because remote team software projects are so challenging that they can be such powerful learning experiences. This is especially true in a world of technological acceleration where an ability to persevere through challenges and learn quickly is highly rewarded. 
 
 ## Shared Obligations
 
